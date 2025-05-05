@@ -16,7 +16,7 @@ try {
     // Consulta XQuery
     $input = 
     'for $a in ./temas/tema
-    where $a/id = $id
+    where $a/id = "' . $id. '"
     return $a';
 
     $query = $session->query($input);
