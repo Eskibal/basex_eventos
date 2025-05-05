@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Panel de Administración - KnockoutTopics</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 2rem;
+            background-color: #f4f4f4;
+        }
+        section {
+            background: white;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        label {
+            display: block;
+            margin-top: 0.5rem;
+        }
+        input, select, button {
+            margin-top: 0.25rem;
+            padding: 0.5rem;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Panel KnockoutTopics</h1>
+
+<section>
+    <h2>Ver todos los temas</h2>
+    <form action="lectura.php" method="GET">
+        <button type="submit">Mostrar temas</button>
+    </form>
+</section>
+
+<section>
+    <h2>Insertar nuevo tema</h2>
+    <form action="../insertar.php" method="POST">
+        <label>ID:</label>
+        <input type="number" name="id" required>
+
+        <label>Tipo:</label>
+        <input type="text" name="tipo" required>
+
+        <label>Publicación:</label>
+        <input type="datetime-local" name="publicacion" required>
+
+        <label>Título:</label>
+        <input type="text" name="titulo" required>
+
+        <label>Descripción:</label>
+        <input type="text" name="descripcion" required>
+
+        <button type="submit">Insertar</button>
+    </form>
+</section>
+
+<section>
+    <h2>Filtrar por ID</h2>
+    <form action="../filtrar.php" method="GET">
+        <label>ID:</label>
+        <input type="number" name="id" required>
+        <button type="submit">Buscar</button>
+    </form>
+</section>
+
+<section>
+    <h2>Editar tema</h2>
+    <form action="../editar.php" method="GET">
+        <label>ID del tema:</label>
+        <input type="number" name="id" required>
+        <button type="submit">Editar</button>
+    </form>
+</section>
+
+<section>
+    <h2>Borrar tema</h2>
+    <form action="../borrar.php" method="POST">
+        <label>ID del tema:</label>
+        <input type="number" name="id" required>
+        <button type="submit">Borrar</button>
+    </form>
+</section>
+
+<section>
+    <h2>Gestionar base 'resultadoseconomicos'</h2>
+    <form action="../resultadoseconomicos.php" method="POST">
+        <label>Acción:</label>
+        <select name="accion" required>
+            <option value="crear">Crear base</option>
+            <option value="eliminar">Eliminar base</option>
+        </select>
+        <button type="submit">Ejecutar</button>
+    </form>
+</section>
+
+</body>
+</html>
