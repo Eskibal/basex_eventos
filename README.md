@@ -60,13 +60,13 @@ Funcionalidad:
 
 Proceso:
 
- 1. Verifica si la solicitud es de tipo POST.
+ 1. Verifica si la solicitud es de tipo `POST`.
    
  2. Recoge la acción seleccionada (crear o eliminar) desde el formulario.
   
  3. Según la acción:
-    - Crear: Ejecuta el comando create db resultadoseconomicos para crear la base de datos.
-    - Eliminar: Ejecuta el comando drop db resultadoseconomicos para eliminar la base de datos.
+    - Crear: Ejecuta el comando `create db resultadoseconomicos` para crear la base de datos.
+    - Eliminar: Ejecuta el comando `drop db resultadoseconomicos` para eliminar la base de datos.
     - Muestra un mensaje de éxito o error según el resultado de la operación.
     
 Formulario:
