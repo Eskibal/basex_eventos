@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<temas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="knockouttopics.xsd">
+    <tema>
+        <id>1</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-05-30T09:00:00</publicacion>
+        <titulo>Pantoja vs. Asakura</titulo>
+        <descripcion>Japón a la caza del oro</descripcion>
+    </tema>
+    <tema>
+        <id>2</id>
+        <tipo>Peleador</tipo>
+        <publicacion>2025-06-02T14:30:00</publicacion>
+        <titulo>Jiří Procházka</titulo>
+        <descripcion>Entrenando para UFC 303</descripcion>
+    </tema>
+    <tema>
+        <id>3</id>
+        <tipo>Ranking</tipo>
+        <publicacion>2025-06-05T18:00:00</publicacion>
+        <titulo>Nuevas posiciones en peso ligero</titulo>
+        <descripcion>Revisión del top 10 de la división</descripcion>
+    </tema>
+    <tema>
+        <id>4</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-06-10T20:00:00</publicacion>
+        <titulo>Adesanya regresa</titulo>
+        <descripcion>El ex campeón busca recuperar su título</descripcion>
+    </tema>
+    <tema>
+        <id>5</id>
+        <tipo>Foro</tipo>
+        <publicacion>2025-06-12T10:00:00</publicacion>
+        <titulo>¿Quién merece la próxima oportunidad?</titulo>
+        <descripcion>Los fanáticos debaten sobre el siguiente retador</descripcion>
+    </tema>
+    <tema>
+        <id>6</id>
+        <tipo>Peleador</tipo>
+        <publicacion>2025-06-15T15:45:00</publicacion>
+        <titulo>Khamzat Chimaev</titulo>
+        <descripcion>Su camino hacia la gloria</descripcion>
+    </tema>
+    <tema>
+        <id>7</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-06-18T19:30:00</publicacion>
+        <titulo>Du Plessis vs. Strickland</titulo>
+        <descripcion>Batalla épica por el campeonato de peso medio</descripcion>
+    </tema>
+    <tema>
+        <id>8</id>
+        <tipo>Ranking</tipo>
+        <publicacion>2025-06-22T08:15:00</publicacion>
+        <titulo>Ranking libra por libra actualizado</titulo>
+        <descripcion>¿Quién es el mejor peleador de UFC en 2025?</descripcion>
+    </tema>
+    <tema>
+        <id>9</id>
+        <tipo>Foro</tipo>
+        <publicacion>2025-06-25T12:00:00</publicacion>
+        <titulo>Mejor KO del año</titulo>
+        <descripcion>Los fanáticos votan por el nocaut más impactante</descripcion>
+    </tema>
+    <tema>
+        <id>10</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-06-30T21:00:00</publicacion>
+        <titulo>Volkanovski vs. Topuria</titulo>
+        <descripcion>El campeón enfrenta su mayor desafío</descripcion>
+    </tema>
+    <tema>
+        <id>11</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-07-05T22:00:00</publicacion>
+        <titulo>Ngannou regresa a la jaula</titulo>
+        <descripcion>El ex campeón de peso pesado vuelve al octágono</descripcion>
+    </tema>
+    <tema>
+        <id>12</id>
+        <tipo>Peleador</tipo>
+        <publicacion>2025-07-08T16:30:00</publicacion>
+        <titulo>Sean O'Malley</titulo>
+        <descripcion>Preparación para su defensa titular</descripcion>
+    </tema>
+    <tema>
+        <id>13</id>
+        <tipo>Ranking</tipo>
+        <publicacion>2025-07-10T09:45:00</publicacion>
+        <titulo>Movimientos en el top 5 de peso pluma</titulo>
+        <descripcion>Nuevos contendientes se acercan al título</descripcion>
+    </tema>
+    <tema>
+        <id>14</id>
+        <tipo>Foro</tipo>
+        <publicacion>2025-07-12T11:00:00</publicacion>
+        <titulo>¿Cuál es la mejor pelea del año?</titulo>
+        <descripcion>Los aficionados eligen el combate más emocionante</descripcion>
+    </tema>
+    <tema>
+        <id>15</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-07-15T20:00:00</publicacion>
+        <titulo>UFC 305: Cartelera completa</titulo>
+        <descripcion>Todos los enfrentamientos confirmados para la noche</descripcion>
+    </tema>
+    <tema>
+        <id>16</id>
+        <tipo>Peleador</tipo>
+        <publicacion>2025-07-18T14:00:00</publicacion>
+        <titulo>Max Holloway</titulo>
+        <descripcion>Un vistazo a su legado en UFC</descripcion>
+    </tema>
+    <tema>
+        <id>17</id>
+        <tipo>Ranking</tipo>
+        <publicacion>2025-07-20T18:30:00</publicacion>
+        <titulo>Los 10 mejores finalizadores de UFC</titulo>
+        <descripcion>¿Quién tiene la mejor tasa de finalización?</descripcion>
+    </tema>
+    <tema>
+        <id>18</id>
+        <tipo>Foro</tipo>
+        <publicacion>2025-07-23T10:15:00</publicacion>
+        <titulo>¿Qué pelea debería hacerse en 2025?</titulo>
+        <descripcion>Debate sobre los enfrentamientos más esperados</descripcion>
+    </tema>
+    <tema>
+        <id>19</id>
+        <tipo>Evento</tipo>
+        <publicacion>2025-07-27T19:45:00</publicacion>
+        <titulo>Pereira vs. Ankalaev</titulo>
+        <descripcion>Choque de estilos en la división semipesada</descripcion>
+    </tema>
+    <tema>
+        <id>20</id>
+        <tipo>Peleador</tipo>
+        <publicacion>2025-07-30T21:00:00</publicacion>
+        <titulo>Tom Aspinall</titulo>
+        <descripcion>El futuro del peso pesado británico</descripcion>
+    </tema>
+</temas>
