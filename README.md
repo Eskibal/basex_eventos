@@ -26,3 +26,6 @@ Proceso:
 
 Formulario:
   - Un formulario simple permite al usuario ingresar el `id` del registro a eliminar.
+
+## Filtrar.php
+
